@@ -1,8 +1,8 @@
 [  
   { "label": "Lightyear", "value": 5 },  
-  { "label": "Piano", "value": 0 }, 
-  { "label": "Lotus", "value": 1 },  
-  { "label": "Reading", "value": 0 },
-  { "label": "Writing", "value": 0 },  
+  { "label": "Piano", "value": 1 }, 
+  { "label": "Lotus", "value": 0 },  
+  { "label": "Reading", "value": 3 },
+  { "label": "Writing", "value": 4 },  
   { "label": "House", "value": 2 },  
 ]
