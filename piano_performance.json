@@ -2,7 +2,6 @@
   { "label": "Red", "value": 10 },  
   { "label": "Blue", "value": 9 },  
   { "label": "Yellow", "value": 8 },  
-  { "label": "Green", "value": 7 },  
   { "label": "Purple", "value": 6 },  
   { "label": "Orange", "value": 3 }
 ]
