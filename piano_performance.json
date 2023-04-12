@@ -4,5 +4,5 @@
   { "label": "Lotus", "value": 3 },  
   { "label": "Reading", "value": 2 },
   { "label": "Writing", "value": 4 },  
-  { "label": "House", "value": 5 },  
+  { "label": "House", "value": 5 }  
 ]
