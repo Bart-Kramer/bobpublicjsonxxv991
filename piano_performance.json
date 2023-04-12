@@ -1,7 +1,9 @@
 [  
   { "label": "Lightyear", "value": 5 },  
-  { "label": "Piano", "value": 0 },  
-  { "label": "Yellow", "value": 8 },  
-  { "label": "Purple", "value": 6 },  
-  { "label": "Orange", "value": 3 }
+  { "label": "Piano", "value": 0 }, 
+  { "label": "Lotus", "value": 1 },  
+  { "label": "Reading", "value": 0 },
+  { "label": "Writing", "value": 0 },  
+  { "label": "House", "value": 2 },  
+  { "label": "Happyness", "value": 10 }
 ]
