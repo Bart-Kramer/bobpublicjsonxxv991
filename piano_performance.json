@@ -1,9 +1,9 @@
 [  
-  { "label": "Lightyear", "value": 5 },  
-  { "label": "Piano", "value": 0 }, 
-  { "label": "Lotus", "value": 1 },  
-  { "label": "Reading", "value": 0 },
-  { "label": "Writing", "value": 0 },  
-  { "label": "House", "value": 2 },  
-  { "label": "Happyness", "value": 10 }
+  { "label": "Monday", "value": 7 },  
+  { "label": "Tuesday", "value": 6 }, 
+  { "label": "Wednesday", "value": 4 },  
+  { "label": "Thursday", "value": 6 },
+  { "label": "Friday", "value": 2 },  
+  { "label": "Saturday", "value": 5 },  
+  { "label": "Sunday", "value": 5 }
 ]
