@@ -5,5 +5,5 @@
   { "label": "Thursday", "value": 6 },
   { "label": "Friday", "value": 2 },  
   { "label": "Saturday", "value": 5 },  
-  { "label": "Sunday", "value": 5 }
+  { "label": "Sunday", "value": 0 }
 ]
