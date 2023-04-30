@@ -1,5 +1,5 @@
 [  
-  { "label": "Monday", "value": 7, , "piano": 10 },  
+  { "label": "Monday", "value": 7 },  
   { "label": "Tuesday", "value": 6 }, 
   { "label": "Wednesday", "value": 4 },  
   { "label": "Thursday", "value": 6 },
