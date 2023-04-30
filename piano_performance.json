@@ -5,5 +5,5 @@
   { "label": "Thursday", "piano": 0 },
   { "label": "Friday", "piano": 1 },  
   { "label": "Saturday", "piano": 1 },  
-  { "label": "Sunday", "pian0": 5 }
+  { "label": "Sunday", "piano": 5 }
 ]
