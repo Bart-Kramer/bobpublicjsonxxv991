@@ -1,9 +1,9 @@
 [  
-  { "label": "Monday", "value": 7 },  
-  { "label": "Tuesday", "value": 6 }, 
-  { "label": "Wednesday", "value": 4 },  
-  { "label": "Thursday", "value": 6 },
-  { "label": "Friday", "value": 2 },  
-  { "label": "Saturday", "value": 5 },  
-  { "label": "Sunday", "value": 0 }
+  { "label": "Monday", "piano": 0 },  
+  { "label": "Tuesday", "piano": 3 }, 
+  { "label": "Wednesday", "piano": 0 },  
+  { "label": "Thursday", "piano": 0 },
+  { "label": "Friday", "piano": 1 },  
+  { "label": "Saturday", "piano": 1 },  
+  { "label": "Sunday", "pian0": 5 }
 ]
