@@ -1,5 +1,5 @@
 [
-    {   "Label": "Monday", "Lotus": "2", "Meg": "2"},
-    {   "Label": "Tuedsay",  "Lotus": "1", "Meg": "0"},
-    {   "Label": "Wednesday", "Lotus": "2", "Meg": "3"}
+    {   "Label": "Monday", "Lotus": 2, "Meg": 3},
+    {   "Label": "Tuedsay",  "Lotus": 1, "Meg": 0},
+    {   "Label": "Wednesday", "Lotus": 1, "Meg": 3}
 ]
