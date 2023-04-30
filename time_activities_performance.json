@@ -1,7 +1,7 @@
 [
     {
         "Date": "Monday",
-        "Piano": "2.0",
+        "Piano": "2",
         "Coding_Design": "0.0",
         "Lotus": "0.0",
         "Reading": "0",
@@ -10,7 +10,7 @@
     },
     {
         "Date": "Tuedsay",
-        "Piano": "1.0",
+        "Piano": "1",
         "Coding_Design": "0.0",
         "Lotus": "0.0",
         "Reading": "0",
@@ -19,7 +19,7 @@
     },
     {
         "Date": "Wednesday",
-        "Piano": "2.0",
+        "Piano": "2",
         "Coding_Design": "3.0",
         "Lotus": "1.0",
         "Reading": "0",
