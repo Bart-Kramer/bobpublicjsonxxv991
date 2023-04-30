@@ -1,17 +1,5 @@
 [
-    {
-        "Date": "30-04-01",
-        "Lotus": "2",
-        "Meg": "2",
-    },
-    {
-        "Date": "Tuedsay",
-        "Lotus": "1",
-        "Meg": "0",
-    },
-    {
-        "Date": "Wednesday",
-        "Lotus": "2",
-        "Meg": "3",
-    }
+    {   "Label": "Monday", "Lotus": "2", "Meg": "2"},
+    {   "Label": "Tuedsay",  "Lotus": "1", "Meg": "0"},
+    {   "Label": "Wednesday", "Lotus": "2", "Meg": "3"}
 ]
