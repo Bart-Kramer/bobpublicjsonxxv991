@@ -1,29 +1,17 @@
 [
     {
         "Date": "Monday",
-        "Piano": "2",
-        "Coding_Design": "0.0",
-        "Lotus": "0.0",
-        "Reading": "0",
-        "Writing down thoughts": "0.0",
-        "lightyear": ""
+        "Lotus": "2",
+        "Meg": "2",
     },
     {
         "Date": "Tuedsay",
-        "Piano": "1",
-        "Coding_Design": "0.0",
-        "Lotus": "0.0",
-        "Reading": "0",
-        "Writing down thoughts": "1.0",
-        "lightyear": "4.0"
+        "Lotus": "1",
+        "Meg": "0",
     },
     {
         "Date": "Wednesday",
-        "Piano": "2",
-        "Coding_Design": "3.0",
-        "Lotus": "1.0",
-        "Reading": "0",
-        "Writing down thoughts": "0.0",
-        "lightyear": "1.0"
+        "Lotus": "2",
+        "Meg": "3",
     }
 ]
